@@ -20,9 +20,9 @@
         <div class="swiper-slide">
            <nav>
          <ul>
-            <li  class="active" action-type="tap.slide">足球生活</li>
-            <li action-type="tap.slide">足球现场</li>
-            <li action-type="tap.slide">足球美女</li>
+            <li  class="active" action-type="tap.slide">嘿嘿</li>
+            <li action-type="tap.slide">哈哈</li>
+            <li action-type="tap.slide">呵呵</li>
          </ul>
       </nav>
       <section spa-widget="scroll">
