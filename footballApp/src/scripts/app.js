@@ -14,4 +14,5 @@ SPA.config({
 	indexView:"guide"
 })
 console.log("hello ok")
+console.log("hello error")
 
