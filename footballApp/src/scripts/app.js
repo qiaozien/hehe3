@@ -15,4 +15,5 @@ SPA.config({
 })
 console.log("hello ok")
 console.log("hello error")
+console.log("hello ok error")
 
