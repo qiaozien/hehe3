@@ -13,3 +13,5 @@ require("./views/guide");
 SPA.config({
 	indexView:"guide"
 })
+console.log("hello ok")
+

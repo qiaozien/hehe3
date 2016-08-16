@@ -11,10 +11,6 @@
             <li class="yo-ico sm">&#xe684;</li>
           </ul>
       </header>
-
-
-
-
     <div class="swiper-container" id="swiper-container">
       <div class="swiper-wrapper">
         <div class="swiper-slide">
